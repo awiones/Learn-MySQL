@@ -45,5 +45,5 @@ If you don’t already have MySQL installed, follow these steps:
 
 ```bash
 mysql --version
-# This should display your MySQL version number, confirming installation.
 ```
+# This should display your MySQL version number, confirming installation.
