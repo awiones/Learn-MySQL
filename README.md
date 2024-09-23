@@ -2,6 +2,7 @@
 
 Welcome to the **Learn MySQL** repository! This guide is designed to take you from absolute beginner to advanced MySQL user, offering clear steps, explanations, and code examples to help you master database management with MySQL.
 
+
 ## Table of Contents
 
 1. [Why MySQL?](#why-mysql)
